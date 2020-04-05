@@ -1,11 +1,31 @@
 {
   "items": [
     {
+      "name": "Technical University Sofia",
+      "location": "",
+      "date": "",
+      "description": "",
+      "responsibilities": "",
+      "title": "",
+      "icon": "",
+      "website": "",
+      "faIcon": "",
+      "specialty": "Industrial engineering",
+      "degree": "Bachelor",
+      "fieldOfStudy": [
+        "Industrial engineering"
+      ],
+      "year": "",
+      "image": "",
+      "company": "",
+      "job": "",
+      "list": ""
+    },
+    {
       "name": "SoftUni Digital 4th season",
       "specialty": "Digital Marketing",
       "degree": "",
       "description": "",
-
       "fieldOfStudy": [
         "Marketing Fundamentals",
         "Content Marketing",
@@ -19,7 +39,7 @@
       ],
       "location": {
         "country": "Bulgaria",
-        "city":  "Sofia"
+        "city": "Sofia"
       },
       "year": {
         "start": 2018,
@@ -31,7 +51,6 @@
         "alt": "Softuni Digital Logo"
       }
     },
-
     {
       "name": "Technical University Sofia",
       "specialty": "Business administration",
@@ -42,7 +61,7 @@
       ],
       "location": {
         "country": "Bulgaria",
-        "city":  "Sofia"
+        "city": "Sofia"
       },
       "year": {
         "start": 2004,
