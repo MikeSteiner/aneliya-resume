@@ -1,0 +1,49 @@
+{% assign personalData = site.data.about %}
+
+<div class="section-head mb-4">
+    <h3 class="bottom-border">Personal <span>data</span></h3>
+</div>
+
+{% if personalData %}
+{% assign fullName = personalData.name.first | append: " " | append:personalData.name.last %}
+{% assign address = personalData.location.city
+| append: ", "
+| append:personalData.location.country
+| append: ", "
+| append:personalData.location.address
+| append: ", "
+| append:personalData.location.postCode %}
+<section class="d-flex justify-content-between personal-data">
+    <div>
+        <div>
+            <h1>{{ fullName }}</h1>
+            <h4>{{ personalData.jobRole }}</h4>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div>
+                    <i class="fa fa-phone"></i>
+                    <span>{{ personalData.phone }}</span>
+                </div>
+                <div>
+<!--                    <i class="fa fa-address-book"></i>-->
+                    <i class="fa fa-calendar-alt"></i>
+                    <span>{{ personalData.email }}</span>
+                </div></div>
+            <div class="col">
+                <div>
+                    <i class="fa fa-location-arrow"></i>
+                    <span>{{ address }}</span>
+                </div>
+                <div>
+                    <i class="fab fa-linkedin"></i>
+                    <span>https://www.linkedin.com/in/alexander-toplijski-8b418b108/</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <img src="assets/images/Aneliya Angelova for CV.jpg">
+    </div>
+</section>
+{% endif %}

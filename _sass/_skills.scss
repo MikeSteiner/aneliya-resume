@@ -1,0 +1,17 @@
+
+.skill-card {
+
+  h4 {
+    color: #1b242f;
+    font-size: 1.2em;
+    font-weight: 600;
+  }
+
+  &-item {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #00a78e;
+    text-decoration-thickness: 1px;
+  }
+
+}

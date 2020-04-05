@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "name": "Nesch decoration next/nice to have library",
+      "location": {
+        "city": "Sofia"
+      },
+      "date": {
+        "start": "2019",
+        "end": "ongoing"
+      },
+      "description": "My private project for e-commerce shop selling handmade articles. Including custom admin panel and ambitious plans to be hosted in the Cloud using Azure Blob storage as files repository.",
+      "responsibilities": [
+        "Angular 8",
+        "Angular Material",
+        "ngrx redux pattern",
+        "Backend is planned to be Java Spring Boot, currently mocked with json-server",
+        "Object Storage as a middle-ware for file upload/download"
+      ]
+    },
+    {
+      "name": "MyWoodenHome",
+      "location": {
+        "city": "Sofia"
+      },
+      "date": {
+        "start": "2017",
+        "end": "2017"
+      },
+      "description": "Small company web site with presenter functions and dynamic content.",
+      "responsibilities": [
+        "ASP.NET MVC",
+        "MSSQL",
+        "https://github.com/ASP-NET-Apps/Ameks13-ASP-NET-MVC"
+      ]
+    },
+    {
+        "name": "MyBookLibrary",
+        "location": {
+          "country": "Bulgaria",
+          "city":  "Sofia"
+        },
+        "date": {
+          "start": "09.2017",
+          "end": "09.2017"
+        },
+        "description": "Simple online bool library project for a job application.",
+        "responsibilities": [
+          "ASP.NET MVC, MSSQL",
+          "https://github.com/MyBookLibrary"
+        ]
+    }
+  ]
+}

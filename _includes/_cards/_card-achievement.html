@@ -1,0 +1,29 @@
+{% assign faIconClass = "fa-" | append:include.faIcon %}
+
+<div class="d-flex work-experience-card achievement-card">
+    <h4 class="pr-3">
+        <i class="fa {{ faIconClass }}"></i>
+    </h4>
+    <div class="d-flex flex-column w-100">
+        {% include _cards/_card-header-link.html
+            title = include.title
+            subTitle = include.subTitle
+            url = include.url
+        %}
+
+        {% if include.period || include.location %}
+            {% include _cards/_card-period-location.html
+                period = include.period
+                location = include.location
+            %}
+        {% endif %}
+
+        {% if include.description %}
+            <div class="mt-2">
+                <div class="">
+                    <p>{{ include.description }}</p>
+                </div>
+            </div>
+        {% endif %}
+    </div>
+</div>

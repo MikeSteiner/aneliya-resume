@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "name": "Digital Marketing",
+      "list": [
+        "● Google Ads",
+        "● SEO Optimization",
+        "● Google Analytics",
+        "● Facebook Marketing"
+      ]
+    },
+    {
+      "name": "More IT skills",
+      "list": [
+        "MS Excel",
+        "Photoshop"
+      ]
+    }
+  ]
+}

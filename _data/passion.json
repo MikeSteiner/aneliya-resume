@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "title": "HONDA",
+      "faIcon": "car"
+    },
+    {
+      "title": "Skiing",
+      "faIcon": "skiing"
+    },
+    {
+      "title": "Bicycle",
+      "faIcon": "biking"
+    },
+    {
+      "title": "CrossFit & Boxing",
+      "faIcon": "dumbbell"
+    }
+  ]
+}

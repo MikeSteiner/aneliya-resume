@@ -1,0 +1,168 @@
+{
+  "items": [
+    {
+      "company": {
+        "name": "Kaufland Service",
+        "department": "",
+        "location": {
+          "country": "Bulgaria",
+          "city":  "Sofia"
+        },
+        "description": "",
+        "icon": "",
+        "website": ""
+      },
+      "job": {
+        "title": "Frontend Angular Developer",
+        "description": "Participating in the development of new company product",
+        "responsibilities": "",
+        "date": {
+          "start": "10.2019",
+          "end": "present"
+        }
+      }
+    },
+
+    {
+      "company": {
+        "name": "B.Braun Medical EOOD",
+        "department": "IT Sharing Center",
+        "location": {
+          "country": "Bulgaria",
+          "city":  "Sofia"
+        },
+        "description": "",
+        "icon": "",
+        "website": "https://www.bbraun.bg"
+      },
+      "job": {
+        "title": "Frontend Software Developer",
+        "description": "Member of an Agile/SCRUM team, developing in-house web applications\nwith Angular 2+ (Angular 5, 6, 7, 8). Using Angular Material as main UI\nlibrary.\nWriting unit tests with Jasmine and Karma, and creating the UI tests with\nSelenium.\nBack-end is based on Java Spring Boot.\nFor the continuous integration and delivery process we use Docker,\nJenkins, as well other online tools and technologies.",
+        "responsibilities": [
+          "Working on First internal company project almost from its beginning, for more than one year including first release.",
+          "Second internal company project for couple of months."
+        ],
+        "date": {
+          "start": "03.2018",
+          "end": "09.2019"
+        }
+      }
+    },
+    {
+      "company": {
+        "name": "Blubito AG",
+        "department": "Power Generation",
+        "location": {
+          "country": "Bulgaria",
+          "city":  "Sofia"
+        },
+        "description": "",
+        "icon": "",
+        "website": "http://blubito.com"
+      },
+      "job": {
+        "title": "Software Developer / Angular 2+",
+        "description": "The applications developed by our department are based on the REST\narchitecture. Database management system is MSSQL and the backend\nbusiness logic is developed using Java Spring Boot. Data exchange\nbetween the front-end and backend part parts is based on RESTful web\nservices in JSON format. Angular 4 is used as a front-end main application\nframework.\nAll the currently ongoing projects are flowing the Agile development\nmethodologies in particular using SCRUM. Software tool used is JIRA.\nContinuous integration is a part of all the ongoing projects supported\nmainly by Jenkins automation server.",
+        "responsibilities": [
+          "My general task was developing new features and bug fixing in the\nfront-end part of applications using Angular 4 and RESTful web\nservices in JSON format."
+        ],
+        "date": {
+          "start": "06.2017",
+          "end": "03.2018"
+        }
+      }
+    },
+    {
+      "company": {
+        "name": "ABB AG Vienna",
+        "department": "Power Generation",
+        "location": {
+          "country": "Austria",
+          "city":  "Vienna"
+        },
+        "description": "",
+        "icon": "",
+        "website": ""
+      },
+      "job": {
+        "title": "Software Engineer",
+        "description": "Worked for the Power Generation department as a PLC software\ndeveloper and commissioning engineer.",
+        "responsibilities": [
+          "Power Generation Department at ABB has a vast experience and\nknow-how in building Hydro Power Plants (HPPs) which offers many professional opportunities and challenges",
+          "Involved in different project phases including custom library\ndevelopment, in-house design and testing (FATs with customers) and\non-site commissioning (sometimes requires a couple of months to\ncomplete);",
+          "Small scripting applications in MS Office products for internal use and\nprocess evaluation."
+        ],
+        "date": {
+          "start": "01.2012",
+          "end": "05.2015"
+        }
+      }
+    },
+    {
+      "company": {
+        "name": "Start Engineering JSCo",
+        "department": "Automation",
+        "location": {
+          "country": "Bulgaria",
+          "city":  "Sofia"
+        },
+        "description": "",
+        "icon": "",
+        "website": ""
+      },
+      "job": {
+        "title": "Industrial Automation-System Engineer",
+        "description": "Working on many domestic and international projects (see projects\nappendix in my linkedin profile) and participating in all project stages.\nInvolved in the software application design, development,\ncustomization, commissioning and on-going support (remote and onsite);\nABB, SIEMENS PLCs programming;\nSCADA and DCS development with ABB 800xA, SIEMENS WinCC,\nMETSO DNA;\nMinor software applications and enhancement for custom project\nneeds, general developed via VBA;\nResponding to RFPs (Request for Proposal) and preparing quotations;\nGeneral project administration.",
+        "responsibilities": "",
+        "date": {
+          "start": "06.2009",
+          "end": "04.2016"
+        }
+      }
+    },
+    {
+      "company": {
+        "name": "SIEMENS EOOD",
+        "department": "Power",
+        "location": {
+          "country": "Bulgaria",
+          "city":  "Sofia"
+        },
+        "description": "",
+        "icon": "",
+        "website": ""
+      },
+      "job": {
+        "title": "Technical Engineer",
+        "description": "This role provided an opportunity to work for one of the biggest global\ncorporations and be part of its corporate culture;\nResponding to RFPs (Request for Proposal) and preparing quotations;\nWorking with SIMATIC PLCs and WinCC, providing remote and on-site\nsupport and service for a domestic project regarding Continuous\nEmission Monitoring Systems (CEMS);\nSoftware development for a large domestic project using SIEMENS\nDCS. Participation in the FAT phase in Germany .",
+        "responsibilities": "",
+        "date": {
+          "start": "04.2007",
+          "end": "06.2009"
+        }
+      }
+    },
+    {
+      "company": {
+        "name": "Start Engineering JSCo.",
+        "department": "Automation Department",
+        "location": {
+          "country": "Bulgaria",
+          "city":  "Sofia"
+        },
+        "description": "",
+        "icon": "",
+        "website": ""
+      },
+      "job": {
+        "title": "Automation Engineer",
+        "description": "Automation Department\n\nReporting Systems – Custom reporting systems web based and local with MSSQL, PHP, VBA;\nPLC Programing – ABB, SIEMENS PLCs;\nSCADA development – ABB 800xA, SIEMENS WinCC;\nContinuous Emission Monitoring Systems (CEMS) - design, development, commissioning, service and support (on-site and remote);\nOffers and common administrative work.",
+        "responsibilities": "",
+        "date": {
+          "start": "06.2003",
+          "end": "03.2007"
+        }
+      }
+    }
+  ]
+}

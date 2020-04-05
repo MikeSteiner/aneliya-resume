@@ -1,0 +1,17 @@
+{
+  "name": {
+    "first": "Aneliya",
+    "last": "Angelova"
+  },
+  "job": {
+    "role": "Marketing Specialist at Artery team"
+  },
+  "phone": "+359 (0)896 892 175",
+  "email": "nangelova08@gmail.com",
+  "location": {
+    "country": "Bulgaria",
+    "city":  "Sofia",
+    "address": "Banishora",
+    "postCode": "1233"
+  }
+}

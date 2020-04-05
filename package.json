@@ -1,0 +1,17 @@
+{
+  "name": "aneliya-online-resume",
+  "version": "1.0.1",
+  "description": "Aneliya Angelova online resume",
+  "main": "index.js",
+  "repository": "git@github.com:mikesteiner/aneliya-resume.git",
+  "author": "Alexander Toplijski <alex@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "jekyll build && git subtree push --prefix _site origin gh-pages"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "bootstrap": "^4.4.1"
+  }
+}

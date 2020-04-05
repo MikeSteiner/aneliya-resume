@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "name": "SoftUni Digital 4th season",
+      "specialty": "Digital Marketing",
+      "degree": "",
+      "description": "",
+
+      "fieldOfStudy": [
+        "Marketing Fundamentals",
+        "Content Marketing",
+        "Email Marketing",
+        "Facebook Marketing",
+        "Google Ads",
+        "SEO Optimization",
+        "Google Analytics",
+        "Digital Creative",
+        "E-commerce"
+      ],
+      "location": {
+        "country": "Bulgaria",
+        "city":  "Sofia"
+      },
+      "year": {
+        "start": 2018,
+        "end": 2019
+      },
+      "website": "https://digital.softuni.bg/",
+      "image": {
+        "src": "/assets/images/schools/softuni-digital-logo.svg",
+        "alt": "Softuni Digital Logo"
+      }
+    },
+
+    {
+      "name": "Technical University Sofia",
+      "specialty": "Business administration",
+      "degree": "Master",
+      "description": "Faculty for German Engineering and Industrial Management",
+      "fieldOfStudy": [
+        "Business administration in German language"
+      ],
+      "location": {
+        "country": "Bulgaria",
+        "city":  "Sofia"
+      },
+      "year": {
+        "start": 2004,
+        "end": 2009
+      },
+      "website": "https://https://tu-sofia.bg/",
+      "image": {
+        "src": "/assets/images/schools/technical-university-sofia.svg",
+        "alt": "TU-Sofia logo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+---
+---
+
+@import 'bootstrap/scss/bootstrap';
+@import 'variables';
+@import "@fortawesome/fontawesome-free/scss/fontawesome";
+@import "@fortawesome/fontawesome-free/scss/solid";
+@import "@fortawesome/fontawesome-free/scss/brands";
+
+@import 'personal-data';
+@import 'skills';
+@import 'school-card';
+@import 'work-experiance-card';
+@import 'achievement-card';
+
+.section-head {
+  h3 {
+    color: #1b242f;
+    font-size: 2em;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+
+    span {
+      font-weight: 700;
+      font-family: 'Asap', sans-serif;
+    }
+  }
+  .underline-green {
+    border-bottom: 3px solid #00a78e;
+    display: inline-block;
+  }
+  .bottom-border {
+    display: block;
+    min-width: 33%;
+    width: 44%;
+    border-bottom: 3px solid #00a78e;
+    //&:before {
+    //  content: " ";
+    //  background: #ccc;
+    //  height: 7px;
+    //  display: block;
+    //  width: 120px
+    //}
+    //&:after {
+    //  content: " ";
+    //  position: absolute;
+    //  background: #00a78e;
+    //  height: 7px;
+    //  display: block;
+    //  width: 23%;
+    //  top: -4px;
+    //}
+  }
+}
+
+.school-wrapper {
+    width: 18rem;
+    max-width: 18rem;
+    height: 100%;
+    max-height: 25rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.education-list-container {
+  hr {
+    border-top: 1px dashed darkgray;
+  }
+  &:last-child hr {
+    display: none;
+  }
+}
+
+.experience-list-container {
+  hr {
+    border-top: 1px dashed darkgray;
+  }
+  &:last-child hr {
+    display: none;
+  }
+}
+
+.project-list-container {
+  hr {
+    border-top: 1px dashed darkgray;
+  }
+  &:last-child hr {
+    display: none;
+  }
+}
+
+.achievement-list-container {
+  hr {
+    border-top: 1px dashed darkgray;
+  }
+  &:last-child hr {
+    display: none;
+  }
+}
+
+

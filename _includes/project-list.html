@@ -1,0 +1,26 @@
+{% assign projectList = site.data.project.items %}
+<div class="">
+    <div class="section-head mb-4">
+        <p>
+            <h3 class="underline-green">Personal <span>Projects</span></h3>
+        </p>
+    </div>
+
+{% if projectList %}
+    {% for project in projectList %}
+        <div class="project-list-container">
+            {% assign period = project.date.start | append: " - " | append:project.date.end %}
+            {% assign location = project.location.city | append: ", " | append:project.location.country %}
+            {% include _cards/_card-work-experience.html
+                title = project.name
+                period = period
+                location = location
+                description = project.description
+                responsibilities = project.responsibilities
+            %}
+            <hr>
+        </div>
+
+    {% endfor %}
+{% endif %}
+</div>

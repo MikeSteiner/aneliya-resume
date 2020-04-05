@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{'/assets/main.css' | prepend: site.baseurl}}">
+</head>
+<body>
+<!--    {% include main-navigation.html %}-->
+    <section class="container-fluid">
+        {{ content }}
+    </section>
+</body>
+</html>
