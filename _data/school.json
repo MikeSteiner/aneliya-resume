@@ -2,24 +2,11 @@
   "items": [
     {
       "name": "Technical University Sofia",
-      "location": "",
-      "date": "",
-      "description": "",
-      "responsibilities": "",
-      "title": "",
-      "icon": "",
-      "website": "",
-      "faIcon": "",
       "specialty": "Industrial engineering",
       "degree": "Bachelor",
       "fieldOfStudy": [
         "Industrial engineering"
-      ],
-      "year": "",
-      "image": "",
-      "company": "",
-      "job": "",
-      "list": ""
+      ]
     },
     {
       "name": "SoftUni Digital 4th season",
